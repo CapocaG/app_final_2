@@ -1,0 +1,16 @@
+com\example\app_final\controller\PiezasController.class
+com\example\app_final\controller\CiudadController.class
+com\example\app_final\services\UsuarioServicio.class
+com\example\app_final\repositorio\UsuarioRepository.class
+com\example\app_final\services\CiudadServicio.class
+com\example\app_final\AppFinalApplication.class
+com\example\app_final\entity\Usuario.class
+com\example\app_final\repositorio\CiudadRepository.class
+com\example\app_final\services\PiezasServicio.class
+com\example\app_final\services\UsuarioServicioImpl.class
+com\example\app_final\entity\Piezas.class
+com\example\app_final\controller\UsuarioController.class
+com\example\app_final\repositorio\PiezasRepository.class
+com\example\app_final\services\PiezasServicioImpl.class
+com\example\app_final\entity\Ciudad.class
+com\example\app_final\services\CiudadServicioImpl.class
